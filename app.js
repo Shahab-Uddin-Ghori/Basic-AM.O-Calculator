@@ -33,8 +33,6 @@ let y = parseFloat(prompt("Enter the value of y"));
 let z = parseFloat(prompt("Enter the value of z"));
 
 // taking output for linear Equation
-let Linear = x*y + z;
+let Linear = x * y + z;
 alert("root of xy + z is " + Linear);
 console.log("root of xy + z is   " + Linear);
-
-
