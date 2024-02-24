@@ -1,7 +1,7 @@
 // Taking input from user as name via prompt and giving output via console/Alert
 let userName = prompt("What is Your Name");
-alert("Welcome Mr. " + userName);
-console.log("Welcome Mr. " + userName);
+alert("Welcome " + userName);
+console.log("Welcome " + userName);
 
 // Taking Input From User using declaring a varing by prompt
 let a = parseFloat(prompt("Enter the Value of a"));
